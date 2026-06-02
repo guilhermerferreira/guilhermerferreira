@@ -9,7 +9,8 @@ Sou estudante de Tecnologia em Sistemas para Internet e desenvolvedor apaixonado
 
 Gosto de construir aplicações completas, desde a modelagem do banco de dados até a implementação de APIs seguras e organizadas. Atualmente concentro meus estudos em desenvolvimento web, arquitetura de software e boas práticas de programação.
 
-Tenho interesse especial por produtividade, organização e sistemas que resolvem problemas reais, o que me levou a desenvolver projetos próprios focados nessas áreas.
+Tenho interesse especial por produtividade, organização e sistemas que resolvem problemas reais, o que me levou a desenvolver projetos próprios focados nessas áreas,
+também tenho uma grande afinidade com **Python** pórem gosto de todas linguagens e sei que consigo domina-las, amo o  mais importate a **lógica**.
 
 ___
 
@@ -64,9 +65,9 @@ ___
 ## Projetos
 
 
-### 🛒 Products API
+### Products API
 
-API REST desenvolvida para gerenciamento de produtos.
+**API REST** desenvolvida para gerenciamento de produtos.
 
 **Funcionalidades**
 - Cadastro de produtos
@@ -89,7 +90,7 @@ ___
 
 ### StudyFlow
 
-Projeto pessoal focado em produtividade e gerenciamento de estudos.
+**Projeto pessoal focado em produtividade e gerenciamento de estudos**.
 
 Funcionalidades desenvolvidas:
 
