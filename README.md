@@ -38,7 +38,7 @@ ___
 
 ### Ferramentas
 <p>
-  <img src='https://skillicons.dev/icons?i=docker, linux, vscode'/>
+  <img src='https://skillicons.dev/icons?i=docker,linux,vscode'/>
 </p>
 
 ___
