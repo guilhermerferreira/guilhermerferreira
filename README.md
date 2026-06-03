@@ -150,8 +150,9 @@ ___
 
 ## Estatística do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerferreira&show_icons=true&theme=tokyonight"/>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerferreira&show_icons=true&theme=tokyonight"/>
+</div>
 ___
 
 
