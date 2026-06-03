@@ -148,6 +148,15 @@ Meu objetivo atual é conquistar minha primeira oportunidade profissional na ár
 ___
 
 
+## Estatística do GitHub
+
+<p>
+  <img src='https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight'/> 
+</p>
+
+___
+
+
 ## Contato
 
 <a href="https://github.com/guilhermerferreira">
