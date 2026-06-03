@@ -151,7 +151,7 @@ ___
 ## Estatística do GitHub
 
 <p>
-  <img src='https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight'/> 
+  <img src='https://github-readme-stats.vercel.app/api?username=guilhermerferreira&show_icons=true&theme=tokyonight'/> 
 </p>
 
 ___
